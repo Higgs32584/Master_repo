@@ -1,0 +1,7 @@
+Plateau Schedle for assignment 2
+
+1. Establish a class Bandmember class with node Bandmember,Instrument,left, & right
+2. Establish class Band with subclass and LinkedListmember
+3. Establish method for switching switching left and right nodes, possibly in an abstract class
+4. Establish method for voiding left and right nodes of the linked list 
+5. Esablish method for swtich

@@ -1,0 +1,10 @@
+/** This is my Code!! My goal is to translate Cartesian and Polar Points
+ *CS 312 - Assignment 1
+ *@ author Michael Higgins
+ * @ Version 1 9/11/2020
+ **/
+//Pollock rotate is the abstract class defined with the parts that will be used for translation
+abstract class Pollock {
+    public abstract String Rotate(double RotatedBy);
+    public abstract String Translate(double by_x,double by_y);
+}
